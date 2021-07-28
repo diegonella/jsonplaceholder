@@ -17,17 +17,20 @@
     {
       "id": 1,
       "code": "01",
-      "name": "Customer 1"
+      "name": "Customer 1",
+      "text": "[01] Customer 1"
     },
     {
       "id": 2,
       "code": "02",
-      "name": "Customer 2"
+      "name": "Customer 2",
+      "text": "[02] Customer 2"
     },
     {
       "id": 3,
       "code": "03",
-      "name": "Customer 3"
+      "name": "Customer 3",
+      "text": "[03] Customer 3"
     }
   ],
   "comments": [
