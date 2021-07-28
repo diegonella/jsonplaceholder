@@ -2,7 +2,44 @@
   "posts": [
     {
       "id": 1,
-      "title": "hello"
+      "title": "Post 1"
+    },
+    {
+      "id": 2,
+      "title": "Post 2"
+    },
+    {
+      "id": 3,
+      "title": "Post 3"
+    }
+  ],
+  "customers": [
+    {
+      "id": 1,
+      "code": "01",
+      "name": "Customer 1"
+    },
+    {
+      "id": 2,
+      "code": "02",
+      "name": "Customer 2"
+    },
+    {
+      "id": 3,
+      "code": "03",
+      "name": "Customer 3"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    },
+    {
+      "id": 2,
+      "body": "some comment",
+      "postId": 1
     }
   ],
   "profile": {
